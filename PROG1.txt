@@ -1,0 +1,10 @@
+1.comida-https://dle.rae.es/srv/fetch?id=9w3sObI
+2.almierzo-https://dle.rae.es/srv/search?m=30&w=almuerzo
+3.desayuno-https://dle.rae.es/srv/search?m=30&w=desayunar
+4.diccionario-https://dle.rae.es/?w=diccionario
+5.juego-https://dle.rae.es/srv/search?m=30&w=juego
+6.dormir-https://dle.rae.es/srv/fetch?id=E9e9ZKl
+7.despertar-https://dle.rae.es/srv/fetch?id=DLPq87N%7CDLXuHWb
+8.insomnio-https://dle.rae.es/srv/search?m=30&w=insomnio
+9.lujuria-https://dle.rae.es/srv/search?m=30&w=lujuria
+10.testarudez-https://dle.rae.es/srv/search?m=30&w=testarudez
